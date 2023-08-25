@@ -1,4 +1,7 @@
-# 🎨🌟Trushen's Creative Universe: Explore the Vibrant World of Graphic Design!
+# <p align="center">
+🎨🌟Trushen's Creative Universe: Explore the Vibrant World of Graphic Design!
+</p> 
+
 ## Unleash Your Creative Vision!🌟🎨
 * Let your imagination run wild and bring your ideas to life through stunning graphic designs.
 * From sleek logos that capture attention to captivating illustrations that tell stories,
