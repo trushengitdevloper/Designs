@@ -1,6 +1,6 @@
 <h1><p align="center">
 🎨🌟Trushen's Creative Universe 🌌<br>
-Explore 🎒 the Vibrant World 🌍 of Graphic Design 🎨!
+Explore 🎒 the Vibrant World 🌍 of Graphic Design! 🎨
 </p></h1> 
 
 ## Unleash Your Creative Vision!🌟🎨
