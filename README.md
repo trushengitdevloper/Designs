@@ -1,4 +1,4 @@
-# 🎨✨ Unleash Your Creative Superpowers with Graphic Design!
+# 🎨🌟Trushen's Creative Universe: Explore the Vibrant World of Graphic Design!
 ## Unleash Your Creative Vision!🌟🎨
 * Let your imagination run wild and bring your ideas to life through stunning graphic designs.
 * From sleek logos that capture attention to captivating illustrations that tell stories,
