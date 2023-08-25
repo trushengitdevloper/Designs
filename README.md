@@ -1,5 +1,5 @@
-# <p align="center">
-🎨🌟Trushen's Creative Universe: Explore the Vibrant World of Graphic Design!
+<p align="center">
+# 🎨🌟Trushen's Creative Universe: Explore the Vibrant World of Graphic Design!
 </p> 
 
 ## Unleash Your Creative Vision!🌟🎨
