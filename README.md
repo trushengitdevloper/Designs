@@ -23,6 +23,7 @@ Explore my work:
 ## Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/solanki-trushen-874349248/)
 - [Portfolio Website](https://solanki-trushen.netlify.app/)
+- [Gmail](mailto:"solankitrushen@gmail.com")
 
 ## Get in Touch
 Feel free to reach out for collaborations, discussions, or just to share creative insights. Let's shape the digital landscape together!
