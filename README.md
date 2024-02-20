@@ -17,8 +17,8 @@ Collaborated with ForceWebTech, honing my skills in a dynamic environment. Contr
 ## Portfolio Highlights
 Explore my work:
 - [**Portfolio Showcase**](https://solanki-trushen.netlify.app/) 🌟 - A captivating journey through my best creations.
-- [**Graphic Design Extravaganza**](#) 🎨 - A collection showcasing the artistry in graphic design.
-- [**ATMT Java Project**](#) ☕ - Any Time Movie Ticket: A Java project transforming online ticket booking.
+- [**Graphic Design Extravaganza**](https://github.com/trushengitdevloper/Designs) 🎨 - A collection showcasing the artistry in graphic design.
+- [**ATMT Java Project**](https://github.com/trushengitdevloper/ATMT-in-java) ☕ - Any Time Movie Ticket: A Java project transforming online ticket booking.
 
 ## Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/solanki-trushen-874349248/)
