@@ -1,7 +1,7 @@
 # <p align="center"> Welcome to my Creative Hub! 🎨✨ </p>
 
-## About Me
-<p>Hey there! I'm Solanki Trushen, a passionate graphic designer and UI/UX expert, weaving pixels into visual masterpieces. With a rich blend of creativity and technical prowess, I bring ideas to life in the digital realm.</p>
+<p> ## About Me
+Hey there! I'm Solanki Trushen, a passionate graphic designer and UI/UX expert, weaving pixels into visual masterpieces. With a rich blend of creativity and technical prowess, I bring ideas to life in the digital realm.</p>
 
 ## Skills
 - Graphic Design 🖌️
